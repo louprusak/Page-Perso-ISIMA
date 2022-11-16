@@ -7676,6 +7676,18 @@ textarea.form-control-lg {
   text-align: center !important;
 }
 
+.vertical-center {
+  vertical-align: middle;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.my-name{
+  margin: auto;
+}
+
 .text-decoration-none {
   text-decoration: none !important;
 }
