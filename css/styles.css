@@ -11478,6 +11478,7 @@ header.masthead .masthead-heading {
   max-width: 26rem;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 50px;
 }
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
