@@ -21,7 +21,7 @@ var fr={
 	careerText3:"Depuis 2021 je suis étudiant ingénieur en informatique à l'ISIMA à Clermont-Ferrand.",
 	careerSubText4:"Spécialisation en deuxième année ISIMA",
 	careerText4:"Depuis ma rentrée 2022 à l'ISIMA, je fais partie de la filière F1 et suis donc spécialisé en informatique embarquée, robotique et réalité virtuelle.",
-	lastCareerText:"Bientôt !",
+	lastCareerText:"3e année ISIMA",
 	
 	//Projets
 	projectsMainText:"Mes projets",
@@ -34,7 +34,7 @@ var fr={
 
 	//Moi
 	meMainText:"A propos de moi",
-	meSubText:"Actuellement étudiant ingénieur en informatique à l’ISIMA (Clermont-Ferrand), je suis à la recherche d’un stage de 5 mois en entreprise (à l'étranger de préférence). Fort de mes connaissances techniques dans le développement, acquises lors de mon parcours, j'ai déjà réalisé des stages et projets en entreprise du secteur informatique. J'ai donc une connaissance d’ensemble sur le développement et l’architecture logicielle, ainsi qu’une expérience concrète de gestion de projet par la méthode agile.Créatif, sérieux, volontaire et motivé, je souhaiterais profiter des opportunités qui me seront données pour appliquer et étoffer mes connaissance et compétences en travaillant et en contribuant à des projets divers et variés.",
+	meSubText:"Actuellement étudiant ingénieur en informatique à l’ISIMA (Clermont-Ferrand), je suis à la recherche d’un stage de fin d'étude de 6 mois en entreprise. Fort de mes connaissances techniques dans le développement, acquises lors de mon parcours, j'ai déjà réalisé des stages et projets en entreprise du secteur informatique. J'ai donc une connaissance d’ensemble sur le développement et l’architecture logicielle, ainsi qu’une expérience concrète de gestion de projet par la méthode agile.Créatif, sérieux, volontaire et motivé, je souhaiterais profiter des opportunités qui me seront données pour appliquer et étoffer mes connaissance et compétences en travaillant et en contribuant à des projets divers et variés.",
 
 	//Competences
 	skillsTitle:"Mes compétences informatiques",

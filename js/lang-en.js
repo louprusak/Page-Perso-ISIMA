@@ -21,7 +21,7 @@ var en = {
 	careerText3:"Since 2021 I have been a computer engineering student at ISIMA in Clermont-Ferrand.",
 	careerSubText4:"Specialization in second year ISIMA",
 	careerText4:"Since my return to school in 2022 at ISIMA, I have been specialized interactive systems for Embedded, Robotics and virtual Reality.",
-	lastCareerText:"Soon !",
+	lastCareerText:"3rd year ISIMA",
 
 	//Projects
 	projectsMainText:"My projects",
@@ -32,7 +32,7 @@ var en = {
 
 	//Moi
 	meMainText:"About me",
-	meSubText:"Currently studying computer engineering at ISIMA (Clermont-Ferrand), I am looking for a 5-month internship in a company (preferably abroad). With my technical knowledge in development, acquired during my career, I have already carried out internships and projects in companies in the IT sector. I therefore have an overall knowledge of software development and architecture, as well as concrete project management experience using the agile method. Creative, serious, voluntary and motivated, I would like to take advantage of the opportunities that will be given to me to apply and expand my knowledge and skills by working and contributing to various and varied projects.",
+	meSubText:"Currently studying computer engineering at ISIMA (Clermont-Ferrand), I am looking for a 6-month internship in a company. With my technical knowledge in development, acquired during my career, I have already carried out internships and projects in companies in the IT sector. I therefore have an overall knowledge of software development and architecture, as well as concrete project management experience using the agile method. Creative, serious, voluntary and motivated, I would like to take advantage of the opportunities that will be given to me to apply and expand my knowledge and skills by working and contributing to various and varied projects.",
 	
 	//Skills
 	skillsTitle:"My IT skills",
